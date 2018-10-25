@@ -67,7 +67,7 @@ As excerpted from Standards:
 The elliptic curve domain parameters over Fp associated with a Koblitz curve secp256k1 are specified by the sextuple T = (p,a,b,G,n,h) where the finite field Fp is defined by:
 
 - p = FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE FFFFFC2F
-- = 2\*\*256 - 2\*\*32 - 2\*\*9 - 2\*\*8 - 2\*\*7 - 2\*\*6 - 2\*\*4 - 1
+- = 2\*\*256 - 2\*\*32 - 2\*\*9 - 2\*\*8 - 2\*\*7 - 2\*\*6 - 2\*\*4 - 1  
 The curve E: y2 = x3+ax+b over Fp is defined by:  
 
 - a = 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
