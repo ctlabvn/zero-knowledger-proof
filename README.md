@@ -23,7 +23,7 @@ so we have [0:1:0] to be our zero point, which serves as the identity of the gro
 2. We need every point P to have an inverse -P for which P + (-P) = 0. Look at the picture above, if we have Q, P on the curve, we can describe a third point P+Q to be -R, the point opposites R.
 3. We want adding to commute, so that P + Q = Q + P. This property of an algebraic structure is called abelian or commutative.
    - If one of the points is O, then P + O = P = O + P.
-   - If P and O are opposites of each other, then P + Q = Q + P = O.
+   - If P and Q are opposites of each other, then P + Q = Q + P = O.
    - If P = Q then we use tangent line to the curve at this point as our line, then we also have R and -R. If P is an inflection point then R is P itself.
 4. We need addition to be associative, so that (P + Q) + R = P + (Q + R). Two points form a vertical line so it is taken care.
 
