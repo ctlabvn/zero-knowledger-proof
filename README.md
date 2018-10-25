@@ -68,7 +68,7 @@ The elliptic curve domain parameters over Fp associated with a Koblitz curve sec
 
 - p = FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFE FFFFFC2F
 - = 2\*\*256 - 2\*\*32 - 2\*\*9 - 2\*\*8 - 2\*\*7 - 2\*\*6 - 2\*\*4 - 1
-The curve E: y2 = x3+ax+b over Fp is defined by:
+The curve E: y2 = x3+ax+b over Fp is defined by:  
 
 - a = 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
 - b = 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000007
